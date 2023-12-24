@@ -1,10 +1,11 @@
 # Sony Headphones Connect (...for Linux)
 > [!IMPORTANT]
-> - **Incomplete, do not use**
+> - **Unfinished, do not use**
 > - **AuthClient not included, for now**
 > - **No Syncing and Merging of DB**
 > - **No Windows Support (for now...?)**
 > - **No song tracking**
+> - **Possibly bad code...**
 
 Sony's "Headphones Connect" mobile app offers an "Activity" feature to track usage of your headphones.
 
